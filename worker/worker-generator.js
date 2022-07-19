@@ -6,7 +6,7 @@ const tokenURL = 'https://www.googleapis.com/oauth2/v4/token';
 const clientId = '';
 const clientSecret = '';
 const grantType = 'authorization_code';
-const redirectURI = 'https://example.com';
+const redirectURI = 'moviemaniaivan.workers.dev';
 const jsURL = 'https://raw.githubusercontent.com/Verma4ever/MMNIVANLIVE/master/worker/worker-super.js';
 
 async function handleRequest(request) {
